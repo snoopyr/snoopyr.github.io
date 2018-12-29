@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-29T12:54:02+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My two-pence on …</title><subtitle>My thoughts and understanding on various concepts related to Data Science, Physics and computers in general.</subtitle><author><name>Sanoop Ramachandran</name></author><entry><title type="html">Getting Started With Data Science And Machine Learning</title><link href="http://localhost:4000/getting-started-with-data-science-and-machine-learning/" rel="alternate" type="text/html" title="Getting Started With Data Science And Machine Learning" /><published>2018-12-15T00:00:00+11:00</published><updated>2018-12-15T00:00:00+11:00</updated><id>http://localhost:4000/getting-started-with-data-science-and-machine-learning</id><content type="html" xml:base="http://localhost:4000/getting-started-with-data-science-and-machine-learning/">&lt;p&gt;Currently, the fields of data science and machine learning are hot topics.
+Consequently, one can find countless articles, blogs, online courses and 
+other material in the internet. 
+It is also very easy to get started by following some of the tutorials
+and making use of pre-built libraries.
+However, this often leads to a false impression that one has understood
+everything.&lt;br /&gt;
+There is no real short-cut to learning and without a deep understanding
+of the various components it is very difficult to develop suitable solutions.&lt;/p&gt;
+
+&lt;p&gt;The best way to get a start is to learn from the masters!
+In this post, I will provide some of the books and material that I think 
+are good places to start the study.
+This list is not exhaustive and is based on my bias towards a more Bayesian
+approach. 
+Although if one tries to be pragmatic, it does not make sense to give a comprehensive
+list as there is no way a person can read all of them and be up to speed
+in a short amount of time.
+The topics covered by these books are vast and it takes repeated efforts
+to master the topics. 
+So get ready for the long-haul!&lt;/p&gt;
+
+&lt;h1 id=&quot;books&quot;&gt;Books&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;A frequentist approach&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.openintro.org&quot;&gt;OpenIntro Statistics&lt;/a&gt;
+David M. Diez, Christopher D. Barr and Mine Cetinkaya-Rundel.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www-bcf.usc.edu/~gareth/ISL/&quot;&gt;An Introduction to statistical learning&lt;/a&gt;.
+Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
+Springer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://web.stanford.edu/~hastie/ElemStatLearn/&quot;&gt;The elements of statistical learning: Data mining, inference and Prediction&lt;/a&gt;.
+Trevor Hastie, Robert Tibshirani and Jerome Friedman.
+Springer.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Bayesian approach&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.stat.columbia.edu/~gelman/book/&quot;&gt;Bayesian Data Analysis&lt;/a&gt;.
+Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari
+and Donald B. Rubin.
+CRC Press.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://sites.google.com/site/doingbayesiandataanalysis/&quot;&gt;Doing Bayesian Data Analysis&lt;/a&gt;
+John K. Kruschke.
+Associated Press.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Machine Learning&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online&quot;&gt;Bayesian Reasoning and Machine Learning&lt;/a&gt;.
+David Barber.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://mitpress.mit.edu/books/machine-learning-1&quot;&gt;Machine Learning: A probabilistic perspective&lt;/a&gt;.
+Kevin P. Murphy.
+The MIT Press.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.springer.com/gp/book/9780387310732&quot;&gt;Pattern recognition and machine learning&lt;/a&gt;.
+Christopher M. Bishop.
+Springer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gaussianprocess.org/gpml/&quot;&gt;Gaussian Processes for Machine Learning&lt;/a&gt;.
+C. E. Rasmussen and C. K. I. Williams.
+The MIT Press.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;www.deeplearningbook.org&quot;&gt;Deep Learning&lt;/a&gt;.
+Ian Goodfellow, Yoshua Bengio and Aaron Courville.
+The MIT Press.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Sanoop Ramachandran</name></author><summary type="html">Currently, the fields of data science and machine learning are hot topics. Consequently, one can find countless articles, blogs, online courses and other material in the internet. It is also very easy to get started by following some of the tutorials and making use of pre-built libraries. However, this often leads to a false impression that one has understood everything. There is no real short-cut to learning and without a deep understanding of the various components it is very difficult to develop suitable solutions.</summary></entry></feed>

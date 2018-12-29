@@ -1,0 +1,17 @@
+---
+layout: single
+author_profile: true
+permalink: /blog/
+header:
+  image: /assets/images/sample_head.png
+---
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{post.url}}">{{post.title}}</a>
+      <p>{{post.excerpt}}</p>
+    </li>
+  {% endfor %}
+</ul>
+
